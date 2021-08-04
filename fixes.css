@@ -1,3 +1,6 @@
-div#rev_slider_2_1_wrapper {
-  margin-top: 0 !important;
+
+@media only screen and (max-width: 600px)  {
+  div#rev_slider_2_1_wrapper {
+    margin-top: 0 !important;
+  }
 }
